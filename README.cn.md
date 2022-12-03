@@ -30,10 +30,10 @@ NeurIPS 2022 关于对抗攻防/AI安全相关的论文整理。自认为还是�
 
 > 如有补充、遗漏、错误，欢迎指正！
 
+<!-- omit from toc --> 
 # 目录
 
 - [对抗攻防论文（NeurIPS2022）](#对抗攻防论文neurips2022)
-- [目录](#目录)
 - [攻击](#攻击)
   - [黑盒攻击（7）](#黑盒攻击7)
   - [后门攻击/数据投毒(Backdoor, Data Poisoning)（9）](#后门攻击数据投毒backdoor-data-poisoning9)
