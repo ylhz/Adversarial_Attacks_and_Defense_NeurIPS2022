@@ -2,6 +2,8 @@
 
 NeurIPS 2022 关于对抗攻防/AI安全相关的论文整理。自认为还是比较全，但重点是偏向对抗攻防，因此用AI进行传统安全分析的论文或许没有在本清单中。
 
+Language : [EN](./README.md)  | CN
+
 ![概括](./Adversarial_NeurIPS2022.jpg)
 
 随谈：
