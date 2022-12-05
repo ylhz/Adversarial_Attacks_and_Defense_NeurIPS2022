@@ -89,7 +89,7 @@ Language : [EN](./README.en.md)  | CN
     - [二值网络 (Binary Neural Networks, BNN)](#二值网络-binary-neural-networks-bnn)
     - [自然语言模型 (Natural Language Processing, NLP)](#自然语言模型-natural-language-processing-nlp)
     - [深度均衡模型 (Deep Equilibrium Models, DEQs)](#深度均衡模型-deep-equilibrium-models-deqs)
-    - [尖峰网络 (Spiking Neural Network)](#尖峰网络-spiking-neural-network)
+    - [脉冲神经网络 (Spiking Neural Network)](#脉冲神经网络-spiking-neural-network)
     - [随机神经网络 (Stochastic Neural Networks)](#随机神经网络-stochastic-neural-networks)
     - [回归 (Regression)](#回归-regression)
     - [神经切线核 (Neural Tangent Kernel, NTK)](#神经切线核-neural-tangent-kernel-ntk)
@@ -1180,7 +1180,7 @@ Zonghan Yang, Tianyu Pang, Yang Liu
 
 ***TL;DR:*** This paper evaluated the robustness of the general deep equilibrium model (DEQ) in the traditional white-box attack-defense setting. The authors first pointed out the challenges of training robust DEQs. Then they developed a method to estimate the intermediate gradients of DEQs and integrate them into the adversarial attack pipelines.
 
-### 尖峰网络 (Spiking Neural Network)
+### 脉冲神经网络 (Spiking Neural Network)
 
 * **[Toward Robust Spiking Neural Network Against Adversarial Perturbation ](https://openreview.net/forum?id=Ncyc0JS7Q16)**
 
